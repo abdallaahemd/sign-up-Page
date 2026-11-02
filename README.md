@@ -4,11 +4,13 @@ A sign-up form with client-side validation. Each field is checked when the form 
 
 ## Screenshots
 
-### Empty form with errors
-![Form with validation errors](/login-errors.png)
-
 ### Valid fields
 ![Success popup](/login-success.png)
+
+
+
+### Empty form with errors
+![Form with validation errors](/login-errors.png)
 
 ## Features
 
